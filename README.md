@@ -57,6 +57,24 @@
       </a>
   </p>
 
+  <h3 align="left"> Machine Learning Technologies </h3>
+
+  <h5 align="left">Data Analysis Tools</h5>
+  <p align="left">
+      <a href="https://numpy.org" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40" />
+      </a>
+      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+          <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="40" height="40" />
+      </a>
+      <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+          <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40" />
+      </a>
+      <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
+          <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg" alt="seaborn" width="40" height="40" />
+      </a>
+  </p>  
+
   <h3 align="left"> Web Technologies </h3>
 
   <p align="left">
