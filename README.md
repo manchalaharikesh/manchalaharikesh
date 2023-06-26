@@ -158,7 +158,7 @@
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
       </a>
       <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="40" height="40" />
+          <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="80" height="40" />
       </a>
       <a href="https://colab.google" target="_blank" rel="noreferrer">
           <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlecolab.svg" alt="figma" width="40" height="40" />
