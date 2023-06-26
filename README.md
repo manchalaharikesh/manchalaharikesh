@@ -146,6 +146,9 @@
       <a href="https://pythonanywhere.com" target="_blank" rel="noreferrer">
           <img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/PythonAnywhere.svg" alt="pythonanywhere" width="40" height="40" />
       </a>
+      <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
+          <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vercel.svg" alt="vercel" width="80" height="40" />
+      </a>
   </p>
 
   <h3 align="left"> Tools </h3>
