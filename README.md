@@ -62,16 +62,26 @@
   <h5 align="left">Data Analysis Tools</h5>
   <p align="left">
       <a href="https://numpy.org" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40" />
+          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="100" height="100" />
       </a>
       <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-          <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="40" height="40" />
+          <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="pandas" width="100" height="100" />
       </a>
       <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
-          <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40" />
+          <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="100" height="100" />
       </a>
       <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
-          <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg" alt="seaborn" width="40" height="40" />
+          <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn.svg" alt="seaborn" width="100" height="100" />
+      </a>
+  </p>  
+
+  <h5 align="left">ML Frameworks</h5>
+  <p align="left">
+      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+          <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="scikit-learn" width="100" height="100" />
+      </a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="100" height="100" />
       </a>
   </p>  
 
@@ -146,6 +156,12 @@
       </a>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+      </a>
+      <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="40" height="40" />
+      </a>
+      <a href="https://colab.google" target="_blank" rel="noreferrer">
+          <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlecolab.svg" alt="figma" width="40" height="40" />
       </a>
   </p>
 
