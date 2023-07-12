@@ -4,7 +4,7 @@
   Hi there 👋! I am Harikesh Manchala
 </h1>
 
-<p> I am an Artifical Intelligence & Machine Learning student currently pursuing my Bachelor's degree at VNR Vignana Jyothi Institute of Engineering & Technology. My guiding principle in engineering is to make the future better than the present. I am passionate about finding innovative solutions to real-world problems that deeply resonate with me. </p>
+<p> I am an Artificial Intelligence & Machine Learning student currently pursuing my Bachelor's degree at VNR Vignana Jyothi Institute of Engineering & Technology. My guiding principle in engineering is to make the future better than the present. I am passionate about finding innovative solutions to real-world problems that deeply resonate with me. </p>
 
 <div>
   <h2 align="left"> Digital Footprint <img src="https://komarev.com/ghpvc/?username=manchalaharikesh&label=Visitors&color=0e75b6&style=flat" alt="harikesh" /> </h2>
